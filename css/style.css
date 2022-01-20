@@ -31,9 +31,7 @@ footer{
 }
 
 .bottom-section{
-    background-color: #0088fb;
-    height: 600px;
-    
+    background-color: #0088fb;    
 }
 
 .clearfix::after{
@@ -53,10 +51,9 @@ footer{
     
 }
 
-
 #main{
     width: calc(50% - 20px);
-    
+    margin: 0 10px 0 10px;
 }
 
 #header{
@@ -66,8 +63,5 @@ footer{
 }
 
 .ext{
-    width:calc(25% - 10px);
-    margin: 0 10px 0 10px;
-    
-    
+    width:25%; 
 }
